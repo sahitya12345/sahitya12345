@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**sahitya12345/sahitya12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a Cloud Data Engineer with a strong background in Machine Learning, Cloud Computing, NLP, and Distributed Systems. My expertise lies in designing and deploying data-driven solutions and scalable cloud applications. I am passionate about leveraging technology to solve complex challenges and am always open to exploring new innovations and industry trends.
+I'm a Cloud Data Engineer with a strong background in Data Science, Cloud Computing, and System Design. My expertise lies in designing and deploying data-driven solutions and scalable cloud applications. I am passionate about leveraging technology to solve complex challenges and am always open to exploring new innovations and industry trends.
 
 🔭 Current Endeavors:
 NLP & Transformers: Advancing in NLP, time series analysis, and transformer models with the latest research.
@@ -37,4 +34,8 @@ First Prize in Ideathon: Awarded at Amity University’s Innovation Week, showca
 
 😄 Pronouns:
 He/Him
+
+<!--
+**sahitya12345/sahitya12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
