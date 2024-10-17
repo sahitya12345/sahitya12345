@@ -3,9 +3,10 @@
 I'm a Cloud Data Engineer with a strong background in Data Science, Cloud Computing, and System Design. My expertise lies in designing and deploying data-driven solutions and scalable cloud applications. I am passionate about leveraging technology to solve complex challenges and am always open to exploring new innovations and industry trends.
 
 🔭 Current Endeavors:
-Advancing in NLP, Text analysis, Time Series analysis & Transformers.
-Explore Large Language Models(LLMs) for AI.
-Azure Data Analytics.
+Advancing in NLP, Text analysis, Time Series analysis & Transformers,
+Explore Large Language Models(LLMs) for AI,
+Azure Data Analytics,
+Azure Infrastructure
 
 🌱 Continuous Learning:
 System Design & Cloud Architecture,
