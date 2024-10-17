@@ -4,28 +4,28 @@ I'm a Cloud Data Engineer with a strong background in Data Science, Cloud Comput
 
 🔭 Current Endeavors:
 
-NLP & Transformers: Advancing in NLP, time series analysis, and transformer models with the latest research.
-Large Language Models(LLMs): Exploring LLMs and it's impactful applications in AI.
-Azure Data Analytics: Driving insights with Azure’s data tools for impactful decision-making.
+Advancing in NLP, Text analysis, Time Series analysis & Transformers.
+Explore Large Language Models(LLMs) for AI.
+Azure Data Analytics.
 
 🌱 Continuous Learning:
 
-System Design & Cloud Architecture: Building expertise in scalable, cloud-based systems.
-Microservices: Developing resilient and modular applications.
-Data Analytics & Data Science: Gaining insights through advanced analytics techniques with a focus on data science methodologies.
-Problem Solving: Tackling complex challenges in cloud and AI.
+System Design & Cloud Architecture.
+Microservices.
+Data Analytics & Data Science.
+Problem Solving.
 
 👥 Open for Collaboration:
 
-AI-Driven Cloud Applications: Seeking to create impactful, cloud-native AI solutions that drive business transformation.
-Innovative ML/NLP Projects: Particularly interested in healthcare, sentiment analysis, and customer insights.
+AI-Driven Cloud Applications that drive business transformation.
+Innovative ML/NLP Projects particularly interested in healthcare, sentiment analysis, and customer insights.
 
 💬 Ask Me About:
 
-Building Scalable Cloud Solutions: From microservices architecture to deployment on Azure.
-Machine Learning & NLP: Insights on data-driven models, transformers, and sentiment analysis.
-Data Analytics: Leveraging Azure’s data tools for actionable insights.
-System Design: Crafting resilient and scalable applications.
+Building Scalable microservices architecture Cloud Solutions.
+Machine Learning & NLP, transformers, and sentiment analysis.
+Data Analytics by leveraging Azure’s data tools for actionable insights.
+System Design for Crafting resilient and scalable applications.
 
 📄 Published Work:
 
