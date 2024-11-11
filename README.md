@@ -32,6 +32,7 @@ LinkedIn: https://www.linkedin.com/in/sahityasatya/
 
 🎖️ Achievements:
 First Prize in Ideathon: Awarded at Amity University’s Innovation Week, showcasing a standout project idea in the INNOVA - Innovative Idea Exhibition.
+4th rank in Amazon Machine Learning Challenge
 
 😄 Pronouns:
 He/Him
