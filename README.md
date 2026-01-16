@@ -1,12 +1,6 @@
 ## Hi there 👋 
 
-I'm a Cloud Data Engineer with a strong background in Data Science, Cloud Computing, and System Design. My expertise lies in designing and deploying data-driven solutions and scalable cloud applications. I am passionate about leveraging technology to solve complex challenges and am always open to exploring new innovations and industry trends.
-
-🔭 Current Endeavors:
-Advancing in NLP, Text analysis, Time Series analysis & Transformers,
-Explore Large Language Models(LLMs) for AI,
-Azure Data Analytics,
-Azure Infrastructure
+I'm a LLM Engineer with a strong background in Data Science, Cloud Computing, and System Design. My expertise lies in designing and deploying data-driven solutions and scalable cloud applications. I am passionate about leveraging technology to solve complex challenges and am always open to exploring new innovations and industry trends.
 
 🌱 Continuous Learning:
 System Design & Cloud Architecture,
@@ -25,14 +19,10 @@ Data Analytics by leveraging Azure’s data tools for actionable insights.
 System Design for Crafting resilient and scalable applications.
 
 📄 Published Work:
-"From RNNs to Bi-directional GRUs: Comparing Deep Learning Models for Binary Classification on IMDB Dataset": Presented at the 2nd International Management Conference on Industry 5.0 by VIT Bhopal (2023).
+https://pesjournal.net/journal/v7-n4/39.pdf
 
 📫 Connect with Me:
 LinkedIn: https://www.linkedin.com/in/sahityasatya/
-
-🎖️ Achievements:
-First Prize in Ideathon: Awarded at Amity University’s Innovation Week, showcasing a standout project idea in the INNOVA - Innovative Idea Exhibition.
-4th rank in Amazon Machine Learning Challenge
 
 😄 Pronouns:
 He/Him
